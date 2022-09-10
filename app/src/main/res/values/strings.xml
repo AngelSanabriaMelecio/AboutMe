@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="myName">Mac Miller</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hola, me llamo Malcom James McCormick\n
+        pero mis amigos me dicen Mac Miller. Fui un rapero estadounidense.\n
+        Siempre me gusto el hip-hop y empece a escribir letras a los 14.\n
+        Disfrutaba mucho haciendo ccanciones y me salia muy natural.\n
+        La musica es una cosa bellisima!</string>
+</resources>
