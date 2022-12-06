@@ -2,6 +2,9 @@
     <string name="app_name">AboutMe</string>
     <string name="myName">Mac Miller</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="cual_es_tu_apodo">Cual es tu apodo?</string>
+    <string name="done">Done</string>
+
     <string name="bio">Hola, me llamo Malcom James McCormick\n
         pero mis amigos me dicen Mac Miller. Fui un rapero estadounidense.\n
         Siempre me gusto el hip-hop y empece a escribir letras a los 14.\n
